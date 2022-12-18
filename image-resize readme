@@ -1,0 +1,5 @@
+Simple python code used to resize all the .png files in the current folder. 
+Outputs the original image(s) in 3 sizes each, 28 x 28, 56 x 56, 112 x 112
+The resulting images are .png
+
+Uses the Pillow library
