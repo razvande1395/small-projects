@@ -1,0 +1,10 @@
+George Washington,george washington,g.w
+Euro,euro
+50,fifty,Fifty
+Britney Spears,britney spears
+Jay-Z,jay-z,JZ,jz,Shawn Corey Carter
+seven,SEVEN,Seven,7
+Rome,ROME,rome
+Duke of Edinburgh,duke of edinburgh
+Romeo and Juliet,romeo and juliet
+Roald Dahl,roald dahl
