@@ -1,0 +1,3 @@
+
+mini-game that emulates the classic phone game "Snake"
+uses the pygame, random, and time modules
